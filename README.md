@@ -1,6 +1,8 @@
 # eSecure
 
-# Application based on react-native as a part of vehicle security project.
+# Secure vehicles through just an App!
+
+This is a prototype of a vehicle security management using IOT and a mobile application.
 
 Features:
   1) User centric mobile application to view and manage all owned vecicles.
