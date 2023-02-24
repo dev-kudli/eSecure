@@ -1,6 +1,6 @@
 # eSecure
 
-# Secure vehicles through just an App!
+# Secure vehicles with just a tap!
 
 This is a prototype of a vehicle security management using IOT and a mobile application.
 
